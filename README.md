@@ -29,7 +29,7 @@ A dynamic, data-driven dashboard built to analyze and track project performance 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Frontend**: Power BI
 * **Data Source**: Azure DevOps
