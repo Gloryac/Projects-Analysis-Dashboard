@@ -11,21 +11,22 @@ A dynamic, data-driven dashboard built to analyze and track project performance 
 
   * Visual representation of project phases and milestones.
   * Highlights upcoming, completed, and overdue milestones.
-  * Filters by project, owner, and status.
+  * Shows project, owner, and status.
+![image](https://github.com/user-attachments/assets/54ee696b-1738-4a1f-914b-c1ce17f0a4d5)
+![image](https://github.com/user-attachments/assets/69e78219-47e2-49e2-9c45-895b95febb2c)
+
 
 * **RAID Management**
 
   * Consolidated view of Risks, Assumptions, Issues, and Dependencies.
-  * RAID items categorized by impact and urgency.
-  * Status indicators (Open, In Progress, Closed).
-  * Drill-down for detailed RAID logs.
+![image](https://github.com/user-attachments/assets/f36a69de-188a-479b-b4f1-47e05172a307)
+
 
 * **Project Health Monitoring**
 
-  * Status metrics (RAG - Red, Amber, Green).
-  * KPIs: budget adherence, schedule performance, resource utilization.
-  * Alerts for critical deviations.
-  * Trend charts for performance over time.
+  * Status metrics eg budget adherence, schedule performance, resource utilization.
+![image](https://github.com/user-attachments/assets/c6d41879-f9c1-4f63-9fc3-31ae98c18cf7)
+
 
 ---
 
